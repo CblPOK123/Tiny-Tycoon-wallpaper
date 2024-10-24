@@ -1,0 +1,16 @@
+{
+  "AppVersion": "2.0.6.0",
+  "Title": "Tiny Tycoon",
+  "Thumbnail": "Thumbnail.png",
+  "Desc": "Build a tiny tycoon on a tiny planet",
+  "Author": "CblPOK123",
+  "License": "MIT",
+  "Contact": "https://github.com/CblPOK123/Tiny-Tycoon-wallpaper",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--audio",
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
